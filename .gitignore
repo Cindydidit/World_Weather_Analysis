@@ -137,3 +137,6 @@ random_numbers.ipynb
 
 # Updating config.py file.
 config.py
+
+# Moving config to Wheather_Database folder
+config.py
