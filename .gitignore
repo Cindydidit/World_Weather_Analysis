@@ -140,3 +140,6 @@ config.py
 
 # Moving config to Wheather_Database folder
 config.py
+
+# Adding config.py to vacation_search folder
+config.py
