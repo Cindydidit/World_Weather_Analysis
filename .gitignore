@@ -143,3 +143,6 @@ config.py
 
 # Adding config.py to vacation_search folder
 config.py
+
+Adding config.py to vacation_itinerary folder
+config.py
